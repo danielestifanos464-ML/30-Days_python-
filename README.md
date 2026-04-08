@@ -19,6 +19,7 @@ The goal of this repository is to document my daily progress as I learn Python s
 - Error handling
 - Object-Oriented Programming
 - Python for data-related tasks
+- Api and Database
 
 ## What This Repository Contains
 
@@ -59,6 +60,16 @@ Through this project, I am improving my ability to:
 ## Repository Structure
 
 The repository is organized according to the lessons and exercises completed during the 30 Days of Python program.
+
+## Acknowledgment
+
+I would like to give credit to **:contentReference[oaicite:0]{index=0}** for creating the *30 Days of Python* challenge.
+
+This repository is based on the exercises and learning materials from his original program.  
+You can find the original repository here:  
+https://github.com/Asabeneh/30-Days-Of-Python
+
+I followed this challenge as part of my learning journey and used it to strengthen my Python fundamentals.
 
 ## Author
 
