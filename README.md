@@ -63,7 +63,7 @@ The repository is organized according to the lessons and exercises completed dur
 
 ## Acknowledgment
 
-I would like to give credit to **:contentReference[oaicite:0]{index=0}** for creating the *30 Days of Python* challenge.
+I would like to give credit to Asabeneh for creating the *30 Days of Python* challenge.
 
 This repository is based on the exercises and learning materials from his original program.  
 You can find the original repository here:  
