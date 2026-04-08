@@ -75,6 +75,3 @@ I followed this challenge as part of my learning journey and used it to strength
 
 **Estifanos Daniel**
 
-## Note
-
-This repository is part of my learning journey, so it will continue to be updated as I progress and improve my Python skills.
